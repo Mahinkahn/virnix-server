@@ -1,6 +1,6 @@
 # Getting Started with Create React App
 
-This project was bootstrapped with [Vite+React App project link](https://653e4741de07b067adbdf1b4--cute-frangollo-d404d5.netlify.app/).
+This project was bootstrapped with [Vite+React App project link](https://gregarious-licorice-4d7129.netlify.app/).
 
 ## Available Scripts
 

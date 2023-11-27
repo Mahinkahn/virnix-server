@@ -18,12 +18,24 @@ const Banner = () => {
                     className='text-[#FFFFFF] leading-[24px] py-4 mb-3 text-base'>
                     Discover the strength of [Holding Company Name] s diverse <br />
                     portfolio in infrastructure-as-a-service.</p>
-                <button
-                    data-aos="fade-up"
+
+                <div className=""
+                    data-aos="zoom-in-up"
                     data-aos-duration="1500"
-                    className="btn btn-error normal-case bg-[#FD3246] text-white">Learn More About Our Brands</button>
+                >
+                    <button
+                        className="btn btn-error normal-case bg-[#FD3246] text-white"
+
+                    >Learn More About Our Brands
+                    </button>
+                </div>
             </div>
-            <div className="">
+
+            <div className=""
+                data-aos="zoom-in-down"
+                data-aos-delay='200'
+                data-aos-duration="1800"
+            >
                 <img src={hero} alt="" />
             </div>
         </div>
